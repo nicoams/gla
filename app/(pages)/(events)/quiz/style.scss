@@ -1,0 +1,35 @@
+.answers-container {
+  height: 100%;
+  width: 100%;
+}
+
+input {
+  width: 100%;
+  margin-bottom: 1rem;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  padding: 0.5rem;
+}
+
+.answers {
+  height: calc(593.91 - (43.2 + 40));
+  overflow-y: auto;
+}
+
+li {
+  margin: 0.5rem;
+  line-height: 1.5rem;
+  padding: 0.5rem;
+}
+
+.true li {
+  background-color: #adfbaf;
+  color: black;
+  border: 2px solid #029107;
+}
+
+.false li {
+  background-color: #fe816b;
+  color: black;
+  border: 1px solid #b74632;
+}

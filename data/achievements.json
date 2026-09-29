@@ -1,0 +1,54 @@
+{
+  "diamondCharacters": [
+    {
+      "name": "Bartolomew Kuma",
+      "requirements": "Conseguiu deixar 5 personagens da classe Realeza e tier ouro (sem upgrade) com 5 estrelas e no nível 110!",
+      "bullet points": { "class": "royalty", "tier": "gold" }
+    },
+    {
+      "name": "Boa Hancock",
+      "requirements": "Conseguiu deixar 5 personagens da classe Mulheres e tier ouro (sem upgrade) com 5 estrelas e no nível 110!",
+      "bullet points": { "sex": ["female", "both"], "tier": "gold" }
+    },
+    {
+      "name": "Borsalino Kizaru",
+      "requirements": "Conseguiu deixar 5 personagens da classe Marinheiros e tier ouro (sem upgrade) com 5 estrelas e no nível 110!",
+      "bullet points": { "class": "marine", "tier": "gold" }
+    },
+    {
+      "name": "Doflamingo",
+      "requirements": "Conseguiu deixar 5 personagens da classe Atiradores e tier ouro (sem upgrade) com 5 estrelas e no nível 110!",
+      "bullet points": { "class": "shooter", "tier": "gold" }
+    },
+    {
+      "name": "Dracule Mihawk",
+      "requirements": "Conseguiu deixar 5 personagens da classe Cortante e tier ouro (sem upgrade) com 5 estrelas e no nível 110!",
+      "bullet points": { "class": "slasher", "tier": "gold" }
+    },
+    {
+      "name": "Emporio Ivankov",
+      "requirements": "Conseguiu deixar 5 personagens da classe Suporte e tier ouro (sem upgrade) com 5 estrelas e no nível 110!",
+      "bullet points": { "class": "support", "tier": "gold" }
+    },
+    {
+      "name": "Enel",
+      "requirements": "Alcançou o nível 110 com os Sacerdotes do Enel e os aprimorou para 5 estrelas do Tier Gold.",
+      "bullet points": { "class": "priest", "tier": "silver" }
+    },
+    {
+      "name": "Jinbe",
+      "requirements": "Conseguiu deixar 5 personagens da classe Tanque e tier ouro (sem upgrade) com 5 estrelas e no nível 110!",
+      "bullet points": { "class": "tank", "tier": "gold" }
+    },
+    {
+      "name": "Marshall D. Teach",
+      "requirements": "Conseguiu deixar 5 personagens da classe Supernovas (EXCETO OS CHAPEU DE PALHA) e tier ouro (sem upgrade) com 5 estrelas e no nível 110!",
+      "bullet points": { "class": "supernova", "tier": "gold" }
+    },
+    {
+      "name": "Shanks",
+      "requirements": "Conseguiu deixar 5 personagens da classe Chapéu de Palha e tier ouro (sem upgrade) com 5 estrelas e no nível 110!",
+      "bullet points": { "class": "mugiwara", "tier": "gold" }
+    }
+  ]
+}

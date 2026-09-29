@@ -1,0 +1,895 @@
+{
+  "lastUpdated": "2025-10-14T20:16:17.253Z",
+  "total": 101,
+  "characters": [
+    {
+      "name": "alvida",
+      "class": [
+        "fighter",
+        "support"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "aokiji dio",
+      "class": [
+        "slasher",
+        "especialist",
+        "tank",
+        "marine",
+        "break_wall",
+        "bridge"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "arlong",
+      "class": [
+        "fighter",
+        "bruiser",
+        "break_wall"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "baby 5",
+      "class": [
+        "slasher",
+        "shooter",
+        "dps"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "bartolomeo",
+      "class": [
+        "especialist",
+        "dps",
+        "break_wall",
+        "bridge"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "bartolomew kuma",
+      "class": [
+        "especialist",
+        "tank",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "basil hawkins lost",
+      "class": [
+        "especialist",
+        "bruiser",
+        "bridge"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "bastille",
+      "class": [
+        "slasher",
+        "tank",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "bellamy",
+      "class": [
+        "fighter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "bepo",
+      "class": [
+        "fighter",
+        "dps"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "blueno",
+      "class": [
+        "fighter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "boa hancock",
+      "class": [
+        "fighter",
+        "dps"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "bonney poseidon",
+      "class": [
+        "fighter",
+        "support"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "borsalino kizaru",
+      "class": [
+        "especialist",
+        "shooter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "brook",
+      "class": [
+        "slasher",
+        "support"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "brook (ts)",
+      "class": [
+        "slasher",
+        "support",
+        "bridge"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "buchi & sham",
+      "class": [
+        "slasher",
+        "bruiser"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "buggy",
+      "class": [
+        "shooter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "cabaji",
+      "class": [
+        "slasher",
+        "dps"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "capone gang bege",
+      "class": [
+        "shooter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "carrot",
+      "class": [
+        "slasher",
+        "especialist",
+        "dps"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "chew",
+      "class": [
+        "shooter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "crocodile",
+      "class": [
+        "especialist",
+        "tank",
+        "break_wall",
+        "bridge"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "daddy masterson",
+      "class": [
+        "shooter",
+        "dps"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "dalmatian",
+      "class": [
+        "slasher",
+        "bruiser",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "doflamingo",
+      "class": [
+        "shooter",
+        "especialist",
+        "dps",
+        "break_wall",
+        "bridge"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "don krieg",
+      "class": [
+        "shooter",
+        "dps"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "dracule mihawk",
+      "class": [
+        "slasher",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "emporio ivankov",
+      "class": [
+        "fighter",
+        "support",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "enel",
+      "class": [
+        "shooter",
+        "especialist",
+        "dps"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "eric",
+      "class": [
+        "shooter",
+        "slasher",
+        "dps"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "eustass kid rag",
+      "class": [
+        "shooter",
+        "tank",
+        "break_wall",
+        "bridge"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "franky (ts) sanitaria",
+      "class": [
+        "shooter",
+        "tank",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "franky sanitaria",
+      "class": [
+        "shooter",
+        "bruiser",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "gecko moria coxinha",
+      "class": [
+        "slasher",
+        "support"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "gedatsu",
+      "class": [
+        "fighter",
+        "dps"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "gin",
+      "class": [
+        "fighter",
+        "shooter",
+        "dps"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "hatchan",
+      "class": [
+        "slasher",
+        "support"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "hina",
+      "class": [
+        "fighter",
+        "bruiser",
+        "break_wall",
+        "bridge"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "jabra",
+      "class": [
+        "slasher",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "jango",
+      "class": [
+        "shooter",
+        "support"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "jesus burgess",
+      "class": [
+        "fighter",
+        "tank",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "jinbe",
+      "class": [
+        "fighter",
+        "tank",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "kaku",
+      "class": [
+        "slasher",
+        "shooter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "kalifa",
+      "class": [
+        "support",
+        "especialist",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "killer",
+      "class": [
+        "slasher",
+        "dps"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "koala",
+      "class": [
+        "fighter",
+        "dps"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "kuro",
+      "class": [
+        "slasher",
+        "dps"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "kuroobi",
+      "class": [
+        "fighter",
+        "tank",
+        "break_wall"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "leo & mansherry",
+      "class": [
+        "especialist",
+        "support",
+        "bridge"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "marco abacaxi",
+      "class": [
+        "especialist",
+        "fighter",
+        "support"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "marshall d. teach barba negra",
+      "class": [
+        "especialist",
+        "bruiser"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "miss doublefinger zala",
+      "class": [
+        "slasher",
+        "bruiser"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "miss goldenweek",
+      "class": [
+        "support",
+        "especialist"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "mohji",
+      "class": [
+        "especialist",
+        "bruiser"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "monkey d. luffy (ts) visno",
+      "class": [
+        "fighter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "monkey d. luffy visno",
+      "class": [
+        "fighter",
+        "bruiser",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "morgan",
+      "class": [
+        "slasher",
+        "bruiser"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "mr.1 daz bonez kolivier",
+      "class": [
+        "slasher",
+        "tank"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "mr.2",
+      "class": [
+        "fighter",
+        "dps"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "mr.3 galdino",
+      "class": [
+        "especialist",
+        "support",
+        "bridge"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "mr.4",
+      "class": [
+        "shooter",
+        "bruiser"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "mr.5",
+      "class": [
+        "shooter",
+        "dps"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "nami",
+      "class": [
+        "especialist",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "nami (ts)",
+      "class": [
+        "especialist",
+        "dps"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "nefertari vivi",
+      "class": [
+        "slasher",
+        "support"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "nico robin",
+      "class": [
+        "especialist",
+        "dps",
+        "break_wall",
+        "bridge"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "ohm",
+      "class": [
+        "tank",
+        "slasher"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "pearl",
+      "class": [
+        "fighter",
+        "especialist",
+        "tank"
+      ],
+      "tier": "bronze"
+    },
+    {
+      "name": "perona",
+      "class": [
+        "especialist",
+        "support",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "portgas d. ace duduh",
+      "class": [
+        "especialist",
+        "shooter",
+        "dps"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "rebecca ghoul den berry",
+      "class": [
+        "slasher",
+        "tank"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "rob lucci",
+      "class": [
+        "fighter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "robin (ts)",
+      "class": [
+        "especialist",
+        "dps",
+        "break_wall",
+        "bridge"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "roronoa zoro",
+      "class": [
+        "slasher",
+        "bruiser",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "roronoa zoro (ts)",
+      "class": [
+        "slasher",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "ryuma",
+      "class": [
+        "slasher",
+        "dps"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "sabo",
+      "class": [
+        "fighter",
+        "especialist",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "sakazuki akainu",
+      "class": [
+        "especialist",
+        "fighter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "satori",
+      "class": [
+        "support",
+        "shooter",
+        "especialist"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "scratchmen apoo",
+      "class": [
+        "shooter",
+        "support"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "shanks",
+      "class": [
+        "slasher",
+        "bruiser",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "shura",
+      "class": [
+        "slasher",
+        "dps"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "smoker piseiro",
+      "class": [
+        "fighter",
+        "tank"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "tashigi",
+      "class": [
+        "slasher",
+        "dps"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "tony tony chopper (ts) gurren",
+      "class": [
+        "fighter",
+        "support",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "tony tony chopper gurren",
+      "class": [
+        "fighter",
+        "support",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "trafalgar law zhao feng",
+      "class": [
+        "slasher",
+        "especialist",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "urouge",
+      "class": [
+        "fighter",
+        "tank",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "usopp",
+      "class": [
+        "shooter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "usopp (ts)",
+      "class": [
+        "shooter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "uta",
+      "class": [
+        "especialist",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "van augur",
+      "class": [
+        "shooter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "vinsmoke ichiji",
+      "class": [
+        "fighter",
+        "bruiser",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "vinsmoke niji",
+      "class": [
+        "shooter",
+        "dps"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "vinsmoke reiju athena",
+      "class": [
+        "especialist",
+        "support"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "vinsmoke sanji",
+      "class": [
+        "fighter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "vinsmoke sanji (ts)",
+      "class": [
+        "fighter",
+        "dps",
+        "break_wall"
+      ],
+      "tier": "diamond"
+    },
+    {
+      "name": "vinsmoke yonji",
+      "class": [
+        "fighter",
+        "tank",
+        "break_wall"
+      ],
+      "tier": "gold"
+    },
+    {
+      "name": "wapol",
+      "class": [
+        "shooter",
+        "tank",
+        "break_wall"
+      ],
+      "tier": "silver"
+    },
+    {
+      "name": "x-drake",
+      "class": [
+        "fighter",
+        "bruiser",
+        "break_wall"
+      ],
+      "tier": "gold"
+    }
+  ]
+}

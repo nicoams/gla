@@ -1,0 +1,17 @@
+// Paleta de cores usada pelos botões e pelo wrapper
+$color-blue: #2d536f;
+$color-purple: #6a5074;
+$color-pink: #e46ca2;
+$color-orange: #9b6722;
+$color-green: #69aa77;
+$color-red: #ca4d3a;
+
+// Útil para mapear
+$color-map: (
+  blue: $color-blue,
+  purple: $color-purple,
+  pink: $color-pink,
+  orange: $color-orange,
+  green: $color-green,
+  red: $color-red,
+);

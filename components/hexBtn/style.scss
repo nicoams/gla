@@ -1,0 +1,95 @@
+  /* outer hexagon wrapper for double border */
+  .hexWrapper {
+    --size: 40px;
+    width: calc(var(--size));
+    height: calc(var(--size) * 0.866);
+    //transform: rotate(90deg);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: #46b4ec;
+    border: 1px solid #36646d;
+    -webkit-clip-path: polygon(
+      50% 0%,
+      93% 25%,
+      93% 75%,
+      50% 100%,
+      7% 75%,
+      7% 25%
+    );
+    clip-path: polygon(50% 0%, 93% 25%, 93% 75%, 50% 100%, 7% 75%, 7% 25%);
+  }
+
+.hexBtn {
+  --size: 40px; // default size
+  width: var(--size);
+  /* height for a regular hexagon is ~0.866 * width */
+  height: calc(var(--size) * 0.866);
+
+  display: inline-flex;
+  //transform: rotate(90deg);
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: none;
+  cursor: pointer;
+  user-select: none;
+
+  /* visual style */
+  background: linear-gradient(90deg, #4fc2ff 0%, #08a2eb 40%, #047bb2 100%);
+  color: #fff;
+  font-weight: 600;
+  font-size: 0.95rem;
+
+  /* create inner hexagon */
+  -webkit-clip-path: polygon(50% 0%, 93% 25%, 93% 75%, 50% 100%, 7% 75%, 7% 25%);
+  clip-path: polygon(50% 0%, 93% 25%, 93% 75%, 50% 100%, 7% 75%, 7% 25%);
+
+  /* subtle shadow and transition */
+  box-shadow: 0 6px 18px rgba(35, 50, 120, 0.18),
+    inset 0 -6px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 140ms ease, box-shadow 140ms ease, filter 140ms ease;
+
+  /* accessible focus */
+  &:focus {
+    outline: none;
+    box-shadow: 0 8px 22px rgba(35, 50, 120, 0.22),
+      0 0 0 4px rgba(74, 99, 255, 0.18);
+  }
+
+  &:hover {
+    transform: translateY(0) scale(1.05);
+    filter: saturate(1.05);
+  }
+
+  &:active {
+    transform: translateY(0) scale(0.99);
+  }
+
+  /* small helpers for multiple sizes */
+  &.small {
+    --size: 80px;
+  }
+  &.large {
+    --size: 160px;
+    font-size: 1.05rem;
+  }
+
+  .label {
+    pointer-events: none; /* don't intercept clicks */
+    display: inline-block;
+    padding: 0 12px; /* some breathing room for long labels */
+    text-align: center;
+    line-height: 1;
+  }
+}
+
+/* Optional: icon-only compact shape */
+.hexBtn.iconOnly {
+  padding: 0;
+}
+
+/* Optional: dark mode variant */
+.hexBtn.dark {
+  background: linear-gradient(135deg, #33384a 0%, #1f2430 100%);
+}

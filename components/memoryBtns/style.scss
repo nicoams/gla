@@ -1,0 +1,35 @@
+@use "@/styles/colors" as *;
+
+.colors {
+  background-color: transparent;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  justify-items: center;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 1rem;
+  z-index: 1;
+
+  button {
+    max-width: fit-content;
+    border: none;
+
+    .img-btn {
+      display: block;
+      height: 50px;
+      width: 50px;
+      object-fit: contain;
+    }
+  }
+
+  @each $name, $value in $color-map {
+    &[data-color="#{$name}"] {
+      background-color: $value;
+
+      @if $name == "yellow" {
+        color: #000;
+      }
+    }
+  }
+}
